@@ -47,6 +47,7 @@ main p{
 header{
 background-color: var(--cor04);
 min-height: 150px;
+max-width: 100%;
 text-align: center;
 padding-top: 40px;
 
@@ -62,7 +63,7 @@ header>p{
     padding-right: 10px;
     padding-left: 10px;
     margin: auto;
-    padding: auto;
+    
 }
  
 header > h1{
@@ -107,7 +108,7 @@ main h1{
 main{
     background-color: white;
     max-width: 300px;
-    min-width: 1000px;
+    min-width: 100%;
     margin: auto;
     padding: 20px
     
